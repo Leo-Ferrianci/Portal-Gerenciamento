@@ -27,12 +27,7 @@ A aplicação está em produção e disponível para testes no ambiente *Live*:
 
 🔗 **Acessar a Aplicação:** [http://leonardoferrianci-72617.bubbleapps.io](http://leonardoferrianci-72617.bubbleapps.io)
 
-### 🔑 Credenciais de Acesso (Admin)
-Para avaliar as regras de negócio completas e contornar os bloqueios de segurança do sistema, utilize a conta com privilégios de Administrador:
-* **E-mail:** `leonardo@teste.com` 
-* **Senha:** `123456`
-
-> **Nota para testes:** Você também pode utilizar o formulário padrão na tela inicial para criar um novo usuário e testar as restrições da plataforma a partir da visão de um membro comum da equipe.
+A senha e Usuário estão no arquivo da entrega
 
 ---
 *Desenvolvido como projeto prático de Engenharia de Software aplicado ao ecossistema Low-Code.*
