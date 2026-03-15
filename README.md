@@ -1,4 +1,4 @@
-# 🚀 PPortal de Gerenciamento de Tarefas  | Gestão Ágil e Comunicação Interna
+# 🚀 Portal de Gerenciamento de Tarefas  | Gestão Ágil e Comunicação Interna
 
 ![Bubble](https://img.shields.io/badge/Made_with-Bubble.io-1148d5?style=for-the-badge&logo=bubble&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
