@@ -1,11 +1,11 @@
-# 🚀 RocketPortal | Gestão Ágil e Comunicação Interna
+# 🚀 PPortal de Gerenciamento de Tarefas  | Gestão Ágil e Comunicação Interna
 
 ![Bubble](https://img.shields.io/badge/Made_with-Bubble.io-1148d5?style=for-the-badge&logo=bubble&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 ![SPA](https://img.shields.io/badge/Architecture-SPA-8A2BE2?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
-O **RocketPortal** é um MVP (*Minimum Viable Product*) corporativo B2B desenvolvido para solucionar gargalos operacionais e centralizar a comunicação de equipes em startups. O ecossistema integra a gestão de demandas em um modelo ágil (Kanban) a um mural de comunicação global, eliminando a dependência de múltiplas ferramentas desestruturadas.
+É um MVP (*Minimum Viable Product*) corporativo B2B desenvolvido para solucionar gargalos operacionais e centralizar a comunicação de equipes em startups. O ecossistema integra a gestão de demandas em um modelo ágil (Kanban) a um mural de comunicação global, eliminando a dependência de múltiplas ferramentas desestruturadas.
 
 A aplicação foi arquitetada utilizando o paradigma **No-Code/Low-Code**, priorizando a rápida validação do modelo de negócio com usuários reais, sem abrir mão da segurança, da integridade de um banco de dados relacional e da escalabilidade.
 
